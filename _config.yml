@@ -1,14 +1,14 @@
-layout_spectrum: 0.28788278228603303
-typography_spectrum: 0.5522559282835573
 color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
   brandStrength: 0.07627103663980961
   lightness: 0.18153720977716148
-  saturation: 0.07565063005313277
   rhythmicContrast: 0.7997996234335005
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-name: swid
+  saturation: 0.07565063005313277
+layout_spectrum: 0.28788278228603303
+name: Daniel
+typography_spectrum: 0.5522559282835573
