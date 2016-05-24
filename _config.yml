@@ -1,14 +1,14 @@
 color:
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
+    - '#FCFCFC'
+    - '#040807'
+    - '#4E4A47'
+    - '#9A9B9D'
+    - '#DBC884'
   brandStrength: 0.07627103663980961
   lightness: 0.18153720977716148
   rhythmicContrast: 0.7997996234335005
   saturation: 0.07565063005313277
 layout_spectrum: 0.28788278228603303
-name: RSVP
+name: Portfolio
 typography_spectrum: 0.5522559282835573
