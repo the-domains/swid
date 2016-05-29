@@ -1,7 +1,7 @@
 ---
 description: They were recently acquired by DirectEats and I’m happy to see how successful this marketplace had become. I recall admiring the founders wanting to focus on what they actually believed in after working years at a large fortune 500 healthcare company (aka industrial chemical company).
-dateModified: '2016-05-29T08:38:08.362Z'
-datePublished: '2016-05-29T08:38:19.637Z'
+dateModified: '2016-05-29T08:41:42.269Z'
+datePublished: '2016-05-29T08:41:57.071Z'
 title: "Abe's Market Acquired by DirectEats"
 author: []
 sourcePath: _posts/2016-05-19-abes-market.md
@@ -25,7 +25,10 @@ My gift and joy is project inception. Ramp up was 0 to 60 in literally a few wee
 
 Software development is complex with many moving parts, yet it can be a pure joy with a good attitude, and good people. Especially memorable on this project was working with former head architect of Magento, who is now founder of [Sellvana][1]---check it out!
 
-Don't build your future on sand. Your software infrastructure, company culture, team collaboration, commitment to quality, and dedication to delivering customer value are the foundation of your company.
+Don't build your future on sand. Your software infrastructure, company culture, team collaboration, commitment to quality, and dedication to delivering customer value are the foundation of your company. 
+
+Want to learn more? [Say hello.][2]
 
 [0]: https://www.dropbox.com/s/l1riddrq2qpn0nm/abesmarket-acquisition.pdf?dl=0
 [1]: https://www.sellvana.com/
+[2]: https://calendly.com/swidnikk
