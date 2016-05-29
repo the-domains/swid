@@ -1,8 +1,8 @@
 ---
 description: They were recently acquired by DirectEats and I’m happy to see how successful this marketplace had become. I recall admiring the founders wanting to focus on what they actually believed in after working years at a large fortune 500 healthcare company (aka industrial chemical company).
-dateModified: '2016-05-29T08:30:18.935Z'
-datePublished: '2016-05-29T08:30:46.732Z'
-title: “The very best thing you can do for the world is make the best of yourself” Wallace D. Wattle
+dateModified: '2016-05-29T08:38:08.362Z'
+datePublished: '2016-05-29T08:38:19.637Z'
+title: "Abe's Market Acquired by DirectEats"
 author: []
 sourcePath: _posts/2016-05-19-abes-market.md
 starred: false
@@ -16,7 +16,8 @@ _type: MediaObject
 
 [They were recently acquired by DirectEats][0] and I'm happy to see how successful this marketplace had become. I recall admiring the founders wanting to focus on what they actually believed in after working years at a large fortune 500 healthcare company (aka industrial chemical company).
 
-### "The very best thing you can do for the world is make the best of yourself" Wallace D. Wattle
+> The very best thing you can do for the world is make the best of yourself   
+> --Wallace D. Wattle
 
 That's certainly what the founders of Abe's Market did and organic food has come a long way since then. When I think of all the small organic product companies who were enabled by Abe's Market, it is a good feeling to know that I contributed towards their cumulative success, that's the power of quality software.
 
