@@ -1,11 +1,11 @@
 ---
 description: I check in on past project from time to time and have been delighted to witness the success of Abe’s Market. This week I was surprised to see their brand was acquired. I recall admiring the founders’ shift and focus on what they actually believed in after many years at a large fortune 500 healthcare company (aka industrial chemical company).
-dateModified: '2016-05-29T10:47:39.431Z'
-datePublished: '2016-05-29T10:47:48.516Z'
+dateModified: '2016-05-29T10:55:44.443Z'
+datePublished: '2016-05-29T10:55:44.884Z'
 title: "Abe's Market Acquired"
 author: []
 sourcePath: _posts/2016-05-19-abes-market.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
