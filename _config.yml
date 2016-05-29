@@ -1,3 +1,4 @@
+typography_spectrum: 0.5522559282835573
 color:
   brandColors:
     - '#FCFCFC'
@@ -10,7 +11,8 @@ color:
   rhythmicContrast: 0.7997996234335005
   saturation: 0.07565063005313277
 layout_spectrum: 0.28788278228603303
-name: Portfolio
-typography_spectrum: 0.5522559282835573
+analytics:
+  google: UA-78475073-1
 author:
   name: Daniel Swid
+name: Portfolio
