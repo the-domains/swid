@@ -10,9 +10,12 @@ color:
   lightness: 0.18153720977716148
   rhythmicContrast: 0.7997996234335005
   saturation: 0.07565063005313277
+github: true
 layout_spectrum: 0.28788278228603303
 analytics:
   google: UA-78475073-1
 author:
   name: Daniel Swid
 name: Portfolio
+url: 'http://portfolio.swidnikk.com'
+content: []
