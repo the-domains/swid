@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Portfolio]]></title>
+        <description><![CDATA[Portfolio]]></description>
+        <link>http://portfolio.swidnikk.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Jan 2017 08:35:38 GMT</lastBuildDate>
+        <atom:link href="http://portfolio.swidnikk.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Contact</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9j1sKwjAURLdSsoAkUpUqplIVQRDFF-KXtL23acSYkkSrrt63n2eYGWZ6qrCpxsDZXJDS-8p1GQOTOyqNkUekudGsMFY7BgxZY5xMqsV0VVyXSfOu57PFZn3YzaOdC9tJzvX-coRkeNtew_Z4MNpm4b7KOI9qdlFYv2r6qDMEQBDenpEEtQJfCtLqcBKUqGTpBYn4E96zMmMBrSBP1qmV6vSz_IVvnpN4alJQJ0kp7bHPqfgBnAZKMQ" height="800"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJw9j1sKwjAURLdSsoAkUpUqplIVQRDFF-KXtL23acSYkkSrrt63n2eYGWZ6qrCpxsDZXJDS-8p1GQOTOyqNkUekudGsMFY7BgxZY5xMqsV0VVyXSfOu57PFZn3YzaOdC9tJzvX-coRkeNtew_Z4MNpm4b7KOI9qdlFYv2r6qDMEQBDenpEEtQJfCtLqcBKUqGTpBYn4E96zMmMBrSBP1qmV6vSz_IVvnpN4alJQJ0kp7bHPqfgBnAZKMQ</link>
+            <guid isPermaLink="false">43489015-9a7a-4760-a4e4-2399beb5c1a4</guid>
+            <pubDate>Mon, 16 Jan 2017 08:35:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
