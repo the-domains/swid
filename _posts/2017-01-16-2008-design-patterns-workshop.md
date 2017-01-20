@@ -4,8 +4,8 @@ description: >-
   I was contracted to prepare and deliver a one day workshop on design patterns.
   This was a lab style workshop for which I prepared exercises and then coded
   the MVC portion on the fly.  View the entire seminar,
-dateModified: '2017-01-20T04:43:33.445Z'
-datePublished: '2017-01-20T04:43:33.999Z'
+dateModified: '2017-01-20T04:43:35.340Z'
+datePublished: '2017-01-20T04:43:35.850Z'
 title: 2008 Design Patterns Workshop
 author: []
 publisher: {}
