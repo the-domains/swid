@@ -21,3 +21,7 @@ url: 'https://thegrid.ai/swidnikk'
 title: Portfolio 2017
 content: []
 description: 'The what, why, and how of Daniel.'
+purpose:
+  - type: external
+    url: 'http://calendly.com/swidnikk/hello'
+    label: Say Hello!
