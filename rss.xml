@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Portfolio]]></title>
-        <description><![CDATA[Portfolio]]></description>
+        <title><![CDATA[Portfolio 2017]]></title>
+        <description><![CDATA[Portfolio 2017]]></description>
         <link>https://thegrid.ai/swidnikk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Jan 2017 04:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2017 23:27:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/swidnikk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Jan 2017 04:42:54 GMT</pubDate>
+        <pubDate>Thu, 13 Apr 2017 23:27:04 GMT</pubDate>
         <item>
             <title><![CDATA[Abe’s Market Acquired!]]></title>
             <description><![CDATA[<h1>Abe’s Market Acquired!</h1>,<p>Abe's Market was one of the early market places for natural and organic products. I It was in production at <a href="http://www.abesmarket.com/">http://www.abesmarket.com</a> and as architect and development lead, I designed an early cloud solution on Amazon Web Services and CentOS for high availability and scalability. I also deployed a uniform development environment, issue management system, SVN, and led Magento development.</p>,<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b737e5cb-2f21-4272-91e5-8f84b1c89a74.jpg"><p>Abe&apos;s Market was an early online marketplace for natural and organic products that I architected way back in 2009... </p></article>,<p>I check in on past projects from time to time and have been delighted to witness the success of Abe’s Market. This week <a href="https://www.dropbox.com/s/l1riddrq2qpn0nm/abesmarket-acquisition.pdf?dl=0">their brand was acquired</a>. I recall admiring the founders’ shift and focus on what they believed in after many years at a large fortune 500 healthcare company, that some might have confused as industrial chemical company ^_^</p>]]></description>
             <link>https://thegrid.ai/swidnikk/abes-market-acquired/index.html</link>
             <guid isPermaLink="false">df526892-9bd3-4f18-a0b8-8f0df05d3091</guid>
             <pubDate>Tue, 07 Jun 2016 23:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Macmillan Buys Late Nite Labs To Help Bring Virtual Science Labs To Higher Ed]]></title>
+            <description><![CDATA[<article><h1>Macmillan Buys Late Nite Labs To Help Bring Virtual Science Labs To Higher Ed</h1><p>Another day, another acquisition in the education technology market. As the old, familiar names in publishing and education move to get in line with the digital revolution, they&apos;re finding plenty of opportunities amidst today&apos;s growing roster of young EdTech startups.</p><img src="https://tctechcrunch2011.files.wordpress.com/2013/03/screen-shot-2013-03-20-at-6-24-12-am.png?w=327&h=143&crop=1"></article>]]></description>
+            <link>https://techcrunch.com/2013/03/20/macmillan-buys-late-nite-labs-to-help-bring-virtual-science-labs-to-higher-ed/</link>
+            <guid isPermaLink="false">b7f0dcf7-a118-4d8e-85d1-1d64ac676d5f</guid>
+            <pubDate>Thu, 13 Apr 2017 23:27:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tools of my Trade]]></title>
