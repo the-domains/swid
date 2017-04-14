@@ -24,4 +24,4 @@ description: 'The what, why, and how of Daniel.'
 purpose:
   - type: external
     url: 'http://calendly.com/swidnikk/hello'
-    label: Say Hello!
+    label: 'http://calendly.com/swidnikk/hello'
