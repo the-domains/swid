@@ -2,8 +2,8 @@
 inFeed: true
 description: >-
   https://techcrunch.com/2013/03/20/macmillan-buys-late-nite-labs-to-help-bring-virtual-science-labs-to-higher-ed/
-dateModified: '2017-04-19T23:21:24.497Z'
-datePublished: '2017-04-19T23:21:25.077Z'
+dateModified: '2017-04-19T23:21:33.053Z'
+datePublished: '2017-04-19T23:21:33.516Z'
 title: 'Reflections: Late Nite Labs'
 author: []
 publisher: {}
