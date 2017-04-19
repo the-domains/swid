@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-19T12:59:50.402Z'
-datePublished: '2017-01-19T12:59:51.223Z'
+dateModified: '2017-04-19T23:21:24.497Z'
+datePublished: '2017-04-19T23:21:25.133Z'
 title: Tools of my Trade
 author: []
 publisher: {}
