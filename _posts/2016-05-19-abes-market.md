@@ -1,15 +1,15 @@
 ---
-dateModified: '2017-04-19T23:21:33.053Z'
+dateModified: '2017-04-19T23:37:38.756Z'
 description: >-
   Abe's Market was one of the early market places for natural and organic
-  products. I It was in production at http://www.abesmarket.com and as architect
+  products. It was in production at http://www.abesmarket.com and as architect
   and development lead, I designed an early cloud solution on Amazon Web
   Services and CentOS for high availability and scalability. I also deployed a
   uniform development environment, issue management system, SVN, and led Magento
   development.
 title: Abe’s Market Acquired!
 author: []
-datePublished: '2017-04-19T23:21:33.454Z'
+datePublished: '2017-04-19T23:37:39.353Z'
 sourcePath: _posts/2016-05-19-abes-market.md
 publisher: {}
 via: {}
@@ -23,7 +23,7 @@ _type: Article
 ---
 # Abe's Market Acquired!
 
-Abe's Market was one of the early market places for natural and organic products. I It was in production at [http://www.abesmarket.com][0] and as architect and development lead, I designed an early cloud solution on Amazon Web Services and CentOS for high availability and scalability. I also deployed a uniform development environment, issue management system, SVN, and led Magento development.
+Abe's Market was one of the early market places for natural and organic products. It was in production at [http://www.abesmarket.com][0] and as architect and development lead, I designed an early cloud solution on Amazon Web Services and CentOS for high availability and scalability. I also deployed a uniform development environment, issue management system, SVN, and led Magento development.
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b737e5cb-2f21-4272-91e5-8f84b1c89a74.jpg" /><p>Abe's Market was an early online marketplace for natural and organic products that I architected way back in 2009... </p></article>
 
