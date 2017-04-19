@@ -13,8 +13,8 @@ description: >-
   threatened to roll over me. My favorite day of the year was the Jewish holiday
   Yom Kippur—no cars—pedestrians and cyclists could traverse the city without
   fear.
-dateModified: '2017-04-06T22:15:20.661Z'
-datePublished: '2017-04-06T22:15:21.914Z'
+dateModified: '2017-04-19T23:21:24.497Z'
+datePublished: '2017-04-19T23:21:25.111Z'
 title: Rocket Push
 author: []
 publisher: {}
