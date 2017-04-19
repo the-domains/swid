@@ -25,8 +25,8 @@ isBasedOnUrl: 'https://techcrunch.com/2015/04/21/blackberry-watchdox/'
 title: >-
   Confirmed: BlackBerry Is Buying File Security And DRM Startup WatchDox for up
   to $150M
-datePublished: '2017-04-19T23:21:25.070Z'
-dateModified: '2017-04-19T23:21:24.497Z'
+datePublished: '2017-04-19T23:21:33.514Z'
+dateModified: '2017-04-19T23:21:33.053Z'
 via: {}
 inFeed: true
 sourcePath: >-
