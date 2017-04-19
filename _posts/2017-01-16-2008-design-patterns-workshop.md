@@ -5,8 +5,8 @@ description: >-
   in ActionScript for Java and PHP developers at the Israeli startup Dapper,
   later acquired by YAHOO. This was the first time I led a group of developers
   and I was quite nervous.
-dateModified: '2017-04-19T23:21:24.497Z'
-datePublished: '2017-04-19T23:21:25.099Z'
+dateModified: '2017-04-19T23:21:33.053Z'
+datePublished: '2017-04-19T23:21:33.514Z'
 title: 'Reflections: Design Patterns Workshop'
 author: []
 publisher: {}
