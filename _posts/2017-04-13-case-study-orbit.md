@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Risk Mitigation, Navigation Models, and Extensive User Research'
-dateModified: '2017-04-13T21:16:03.566Z'
-datePublished: '2017-04-13T21:16:04.194Z'
+dateModified: '2017-04-19T23:21:24.497Z'
+datePublished: '2017-04-19T23:21:25.095Z'
 title: 'Case Study: Orbit'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-13-case-study-orbit.md
 starred: false
 datePublishedOriginal: '2017-04-13T21:16:04.194Z'
-sourcePath: _posts/2017-04-13-case-study-orbit.md
 _type: Blurb
 
 ---
