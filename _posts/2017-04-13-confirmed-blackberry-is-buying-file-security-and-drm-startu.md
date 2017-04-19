@@ -23,10 +23,10 @@ app_links:
     type: android
 isBasedOnUrl: 'https://techcrunch.com/2015/04/21/blackberry-watchdox/'
 title: >-
-  Confirmed: BlackBerry Is Buying File Security And DRM Startup WatchDox for up
+  Aquisition: BlackBerry Is Buying File Security And DRM Startup WatchDox for up
   to $150M
-datePublished: '2017-04-19T23:21:33.514Z'
-dateModified: '2017-04-19T23:21:33.053Z'
+datePublished: '2017-04-19T23:22:26.489Z'
+dateModified: '2017-04-19T23:22:26.048Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -37,4 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Confirmed: BlackBerry Is Buying File Security And DRM Startup WatchDox for up to $150M</h1><p>Canadian handset maker BlackBerry has been on a mission to turn around its beleaguered handset business by focusing more on software, and it looks like it has taken a significant step in that direction, specifically around file security and DRM.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/04/screen-shot-2015-04-21-at-12-30-04.png?w=764&amp;h=384&amp;crop=1" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4564537db425a152daea7b438b6d1874/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2015%2F04%2Fscreen-shot-2015-04-21-at-12-30-04.png%26h%3D384%26crop%3D1" /><h1>Aquisition: BlackBerry Is Buying File Security And DRM Startup WatchDox for up to $150M</h1><p>Canadian handset maker BlackBerry has been on a mission to turn around its beleaguered handset business by focusing more on software, and it looks like it has taken a significant step in that direction, specifically around file security and DRM.</p></article>
