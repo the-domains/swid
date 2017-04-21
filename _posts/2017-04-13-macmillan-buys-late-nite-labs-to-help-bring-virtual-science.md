@@ -25,14 +25,14 @@ app_links:
 isBasedOnUrl: >-
   https://techcrunch.com/2013/03/20/macmillan-buys-late-nite-labs-to-help-bring-virtual-science-labs-to-higher-ed/
 title: Macmillan Buys Late Nite Labs To Help Bring Virtual Science Labs To Higher Ed
-datePublished: '2017-04-19T23:21:33.394Z'
-dateModified: '2017-04-19T23:21:33.053Z'
+datePublished: '2017-04-21T19:05:04.833Z'
+dateModified: '2017-04-21T19:05:04.531Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-04-13-macmillan-buys-late-nite-labs-to-help-bring-virtual-science.md
+datePublishedOriginal: '2017-04-21T19:05:04.833Z'
 starred: false
-datePublishedOriginal: '2017-04-13T23:27:03.539Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
