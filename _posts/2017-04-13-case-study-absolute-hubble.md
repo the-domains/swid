@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'There’s a rule of thumb I keep in mind when I approach a design problem. '
-dateModified: '2017-04-19T23:21:33.053Z'
-datePublished: '2017-04-19T23:21:33.392Z'
+dateModified: '2017-04-21T19:05:05.724Z'
+datePublished: '2017-04-21T19:05:05.960Z'
 title: 'Case Study: Absolute Hubble'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-13-case-study-absolute-hubble.md
+datePublishedOriginal: '2017-04-21T19:05:05.960Z'
 starred: false
-datePublishedOriginal: '2017-04-13T18:16:58.092Z'
 _type: Blurb
 
 ---
