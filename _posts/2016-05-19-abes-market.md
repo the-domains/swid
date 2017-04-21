@@ -1,5 +1,5 @@
 ---
-dateModified: '2017-04-19T23:37:38.756Z'
+dateModified: '2017-04-21T19:05:06.505Z'
 description: >-
   Abe's Market was one of the early market places for natural and organic
   products. It was in production at http://www.abesmarket.com and as architect
@@ -9,14 +9,14 @@ description: >-
   development.
 title: Abe’s Market Acquired!
 author: []
-datePublished: '2017-04-19T23:37:39.353Z'
+datePublished: '2017-04-21T19:05:06.674Z'
 sourcePath: _posts/2016-05-19-abes-market.md
 publisher: {}
 via: {}
 hasPage: true
 inFeed: true
+datePublishedOriginal: '2017-04-21T19:05:06.674Z'
 starred: true
-datePublishedOriginal: '2016-06-07T23:25:40.462Z'
 url: abes-market-acquired/index.html
 _type: Article
 
