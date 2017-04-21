@@ -5,15 +5,15 @@ description: >-
   in ActionScript for Java and PHP developers at the Israeli startup Dapper,
   later acquired by YAHOO. This was the first time I led a group of developers
   and I was quite nervous.
-dateModified: '2017-04-19T23:21:33.053Z'
-datePublished: '2017-04-19T23:21:33.514Z'
+dateModified: '2017-04-21T19:05:05.587Z'
+datePublished: '2017-04-21T19:05:06.173Z'
 title: 'Reflections: Design Patterns Workshop'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-01-16-2008-design-patterns-workshop.md
+datePublishedOriginal: '2017-04-21T19:05:06.173Z'
 starred: false
-datePublishedOriginal: '2017-01-16T09:03:48.315Z'
 _type: Blurb
 
 ---
