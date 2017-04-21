@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-19T23:21:33.053Z'
-datePublished: '2017-04-19T23:21:33.513Z'
+dateModified: '2017-04-21T19:05:05.850Z'
+datePublished: '2017-04-21T19:05:06.424Z'
 title: Tools of my Trade
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-01-19-tools-i-love.md
+datePublishedOriginal: '2017-04-21T19:05:06.424Z'
 starred: false
-datePublishedOriginal: '2017-01-19T12:59:23.923Z'
-url: tools-i-love/index.html
+url: tools-of-my-trade/index.html
 _type: Article
 
 ---
