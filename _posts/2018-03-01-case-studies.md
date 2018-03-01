@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   On this page, I have collected several of the projects that have stood out and
-  I take a closer in depth look at some of the lessons I learned. 
-dateModified: '2018-03-01T04:20:38.541Z'
-datePublished: '2018-03-01T04:20:40.584Z'
+  I take a closer in depth look at some of the lessons I learned.
+dateModified: '2018-03-01T04:54:18.696Z'
+datePublished: '2018-03-01T04:54:19.658Z'
 title: Case Studies
 author: []
 publisher: {}
@@ -14,12 +14,12 @@ sourcePath: _posts/2018-03-01-case-studies.md
 starred: false
 datePublishedOriginal: '2018-03-01T04:20:04.660Z'
 url: case-studies/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Case Studies
 
-On this page, I have collected several of the projects that have stood out and I take a closer in depth look at some of the lessons I learned. 
+On this page, I have collected several of the projects that have stood out and I take a closer in depth look at some of the lessons I learned.
 
 ---
 
@@ -33,7 +33,7 @@ Here I can describe my summer volunteer at the Climate Foundation.
 
 ## Embracing Change in Enterprise Organizations
 
-Here I can describe leaving R&D User Experience and some unintended consequences, how I grew and a tough decision at VMware. 
+Here I can describe leaving R&D User Experience and some unintended consequences, how I grew and a tough decision at VMware.
 
 ## Risk Mitigation with an Established User Base
 
@@ -41,7 +41,7 @@ Here I can describe the importance of risk mitigation with prototyping and user 
 
 ## Design Patterns and Complexity
 
-Why design patterns help encapsulate complexity, accelerate team work, and lead to product excellence with Late Nite Labs. 
+Why design patterns help encapsulate complexity, accelerate team work, and lead to product excellence with Late Nite Labs.
 
 ## Working with Executives and Hierarchy
 
