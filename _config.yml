@@ -25,3 +25,6 @@ purpose:
   - type: external
     url: 'http://calendly.com/swidnikk/hello'
     label: Say Hello.
+  - type: internal
+    label: Case Studies
+    item: 1da3c167-8b80-4ae3-b608-76576871e120
