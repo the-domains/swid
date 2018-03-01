@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Risk Mitigation, Navigation Models, and Extensive User Research'
-dateModified: '2018-03-01T04:06:18.070Z'
-datePublished: '2018-03-01T04:06:18.732Z'
+dateModified: '2018-03-01T04:06:50.017Z'
+datePublished: '2018-03-01T04:06:50.790Z'
 title: 'Case Study: Orbit'
 author: []
 publisher: {}
