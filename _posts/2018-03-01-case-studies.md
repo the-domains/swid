@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   On this page, I have collected several of the projects that have stood out and
   I take a closer in depth look at some of the lessons I learned. 
-dateModified: '2018-03-01T04:20:03.958Z'
-datePublished: '2018-03-01T04:20:04.660Z'
+dateModified: '2018-03-01T04:20:38.541Z'
+datePublished: '2018-03-01T04:20:40.584Z'
 title: Case Studies
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-03-01-case-studies.md
 starred: false
 datePublishedOriginal: '2018-03-01T04:20:04.660Z'
-sourcePath: _posts/2018-03-01-case-studies.md
 url: case-studies/index.html
 _type: Article
 
